@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tesfahun
-- 👀 I’m interested in Software Development, Software Engineering, Artificial Intelligent and Robotics projects.
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on real time and challenging projects
-- 📫 How to reach me by y.w.tesfahun@gmail.com
+- 👀 I’m interested in Software Development, Software Engineering, Artificial Intelligent and Robotics focus areas.
+- 🌱 I’m currently studying computer science
+- 💞️ I’m looking for summer(2021) internship to collaborate on real time and challenging projects
+- 📫 How to reach me? by y.w.tesfahun@gmail.com
 
 
 <!---
