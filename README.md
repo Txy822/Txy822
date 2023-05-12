@@ -1,6 +1,7 @@
  Hello, I'm Tesfahun Yohanis-Wolleli
 
-I’m a tech enthusiast Android Developer  💻 from Birmingham,UK. I’m passionate about technologies and love to learn new things. I prefer working in the android application development and back-end though I have an intermediate label grasp over the front-end part including XML and Compose. I love to code with Android Studio in Kotlin and Java. I am trying to be more creative and will come back soon with something unique...
+I’m a tech enthusiast Android Developer  💻 from Birmingham,UK. I’m passionate about technologies and love to learn new things.
+I prefer working in the android application development and back-end though I have an intermediate label grasp over the front-end part including XML and Compose. I love to code with Android Studio in Kotlin and Java. I am trying to be more creative and will come back soon with something unique...
 🧑 More About Me
 
     🎓  I've completed my MEng in Computer Science and Software Engineering from University of Birmingham(UK).
