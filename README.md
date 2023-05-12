@@ -5,7 +5,8 @@ I prefer working in the android application development and back-end though I ha
 🧑 More About Me
 
     🎓  I've completed my MEng in Computer Science and Software Engineering from University of Birmingham(UK).
-    💡  I'm passionate about Android Development, Artificial Intelligence, Embedded System Software Development, Low level programming including Assembly and Security & like to explore new technologies and develop software solutions and quick hacks.
+    💡  I'm passionate about Android Development, Artificial Intelligence, Embedded System Software Development, 
+    Low level programming including Assembly and Security & like to explore new technologies and develop software solutions and quick hacks.
     🌱  I'm on track for learning more about Cloud Architecture.
     💬  Feel free to reach out to me for roles,consulting and volunteering, or just for some interesting discussion.
     ✉️  You can knock me an email at y.w.tesfahun@gmail.com! I'll try to respond as soon as I can.
