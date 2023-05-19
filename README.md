@@ -4,6 +4,7 @@ I’m a tech enthusiast Android Developer  💻 from Birmingham,UK. I’m passio
 I prefer working in the android application development and back-end though I have an intermediate label grasp over the front-end part including XML and Compose. I love to code with Android Studio in Kotlin and Java. I am trying to be more creative and will come back soon with something unique...
 
 🧑 More About Me ->>>
+
     🎓  I've completed my MEng in Computer Science and Software Engineering from University of Birmingham(UK).
     💡  I'm passionate about Android Development, Artificial Intelligence, Embedded System Software Development, 
     Low level programming including Assembly and Security & like to explore new technologies and develop software solutions and quick hacks.
