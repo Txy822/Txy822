@@ -11,8 +11,8 @@ I prefer working in the android application development and back-end though I ha
     🌱  I'm on track for learning more about Cloud Architecture.
     💬  Feel free to reach out to me for roles,consulting and volunteering, or just for some interesting discussion.
     ✉️  You can knock me an email at y.w.tesfahun@gmail.com! I'll try to respond as soon as I can.
-    🔭 I’m currently working as an Android Developer Consultant for ITC and looking for new opportunities. 
-    Available for Work.
+    🔭 I worked as an Android Developer Consultant for ITC for about 9 months from Sept 2022 and now looking for new opportunities. 
+    Available for work immediately.
 
 
 
