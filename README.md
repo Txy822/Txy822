@@ -11,7 +11,7 @@ I prefer working as an Android Developer or Software Engineer position.  I love 
     🌱  I'm on track for learning more about Cloud Architecture.
     💬  Feel free to reach out to me for roles, consulting, and volunteering, or just for some interesting discussion.
     ✉️  You can knock me an email at y.w.tesfahun@gmail.com! I'll try to respond as soon as I can.
-    🔭 I worked as an Android Developer Consultant for ITC from Sept 2022 to June 2023. 
+    🔭 I worked as an Android Developer Consultant for ITC from Sept 2022 to June 2023. Now, I am working in Sofico as Software Engineer.
    
 
 
