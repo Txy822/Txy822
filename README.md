@@ -1,17 +1,17 @@
  Hello, I'm Tesfahun Yohanis-Wolleli
 
 I’m a tech enthusiast Software Developer  💻 from Birmingham, UK. I’m passionate about technology and love to learn new things.
-I prefer working as an Android Developer or Software Engineer position.  I love to code with Android Studio in Kotlin and Java, and Java EE for enterprise applications.
+I prefer working as a Software Engineer position.  I love to code in Kotlin, Java, and Java EE for enterprise applications.
 
 🧑 More About Me ->>>
 
-    🎓  I've completed my MEng in Computer Science and Software Engineering from the University of Birmingham(UK) in July 2022.
+    🎓  I completed my MEng in Computer Science and Software Engineering from the University of Birmingham(UK) in July 2022.
     💡  I'm passionate about Android Development, Artificial Intelligence, Embedded System Software Development, 
     Low-level programming including Assembly and Security & like to explore new technologies and develop software solutions and quick hacks.
     🌱  I'm on track for learning more about Cloud Architecture.
     💬  Feel free to reach out to me for roles, consulting, and volunteering, or just for some interesting discussion.
     ✉️  You can knock me an email at y.w.tesfahun@gmail.com! I'll try to respond as soon as I can.
-    🔭 I worked as an Android Developer Consultant for ITC from Sept 2022 to June 2023. Now, I am working in Sofico as Software Engineer.
+    🔭 I worked as an Android Developer Consultant for ITC from Sept 2022 to June 2023. Now, I am working in Sofico as a Software Engineer.
    
 
 
